@@ -1,6 +1,6 @@
 from prescription_data import *
 
-trial_patients = ["Denise", "Eddie", "Frank", "Georgia", "Kenny"]
+trial_patients = {"Denise", "Eddie", "Frank", "Georgia", "Kenny"}
 
 # Remove Warfarin and add Edoxaban
 for patient in trial_patients:
