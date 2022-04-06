@@ -245,4 +245,4 @@ Wallis and Futuna|Mata-Utu|WF|WLF|+681|UTC+12:00|CFP franc
 Western Sahara|Laâyoune (El Aaiún)|EH|ESH|+212 5288/5289|UTC+01|Moroccan dirham
 Yemen|Sanaá|YE|YEM|+967|UTC+03:00|Yemeni rial
 Zambia|Lusaka|ZM|ZMB|+260|UTC+02:00|Zambian kwacha
-Zimbabwe|Harare|ZW|ZWE|+263|UTC+02:00|Botswana pula
+Zimbabwe| Harare|ZW| ZWE|+263|UTC+02:00|Botswana pula
