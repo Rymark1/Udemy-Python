@@ -1,0 +1,684 @@
+1000 Maniacs	Our Time in Eden	1992	<__main__.Song object at 0x000001ED14CB95B0>
+1000 Maniacs	Our Time in Eden	1992	<__main__.Song object at 0x000001ED14CB9520>
+1000 Maniacs	Our Time in Eden	1992	<__main__.Song object at 0x000001ED14CB94C0>
+1000 Maniacs	Our Time in Eden	1992	<__main__.Song object at 0x000001ED14CB9460>
+1000 Maniacs	Our Time in Eden	1992	<__main__.Song object at 0x000001ED14CB93A0>
+1000 Maniacs	Our Time in Eden	1992	<__main__.Song object at 0x000001ED14CB92E0>
+1000 Maniacs	Our Time in Eden	1992	<__main__.Song object at 0x000001ED14CB9280>
+1000 Maniacs	Our Time in Eden	1992	<__main__.Song object at 0x000001ED14CB9220>
+1000 Maniacs	Our Time in Eden	1992	<__main__.Song object at 0x000001ED14CB91C0>
+1000 Maniacs	Our Time in Eden	1992	<__main__.Song object at 0x000001ED14CB9160>
+1000 Maniacs	Our Time in Eden	1992	<__main__.Song object at 0x000001ED14CB9100>
+1000 Maniacs	Our Time in Eden	1992	<__main__.Song object at 0x000001ED14CB90A0>
+1000 Maniacs	Our Time in Eden	1992	<__main__.Song object at 0x000001ED14CB9040>
+10cc	The Best Of The Early Years	2002	<__main__.Song object at 0x000001ED14CB5EE0>
+10cc	The Best Of The Early Years	2002	<__main__.Song object at 0x000001ED14CB5E80>
+10cc	The Best Of The Early Years	2002	<__main__.Song object at 0x000001ED14CB5E20>
+10cc	The Best Of The Early Years	2002	<__main__.Song object at 0x000001ED14CB5DC0>
+10cc	The Best Of The Early Years	2002	<__main__.Song object at 0x000001ED14CB5D60>
+10cc	The Best Of The Early Years	2002	<__main__.Song object at 0x000001ED14CB5D00>
+10cc	The Best Of The Early Years	2002	<__main__.Song object at 0x000001ED14CB5CA0>
+10cc	The Best Of The Early Years	2002	<__main__.Song object at 0x000001ED14CB5C40>
+10cc	The Best Of The Early Years	2002	<__main__.Song object at 0x000001ED14CB5BE0>
+10cc	The Best Of The Early Years	2002	<__main__.Song object at 0x000001ED14CB5B80>
+10cc	The Best Of The Early Years	2002	<__main__.Song object at 0x000001ED14CB5B20>
+10cc	The Best Of The Early Years	2002	<__main__.Song object at 0x000001ED14CB5AC0>
+10cc	The Best Of The Early Years	2002	<__main__.Song object at 0x000001ED14CB5A60>
+10cc	The Best Of The Early Years	2002	<__main__.Song object at 0x000001ED14CB5A00>
+10cc	The Best Of The Early Years	2002	<__main__.Song object at 0x000001ED14CB59A0>
+10cc	The Best Of The Early Years	2002	<__main__.Song object at 0x000001ED14CB5940>
+10cc	The Best Of The Early Years	2002	<__main__.Song object at 0x000001ED14CB58E0>
+10cc	The Best Of The Early Years	2002	<__main__.Song object at 0x000001ED14CB5880>
+10cc	The Best Of The Early Years	2002	<__main__.Song object at 0x000001ED14CB5820>
+10cc	The Best Of The Early Years	2002	<__main__.Song object at 0x000001ED14CB4DF0>
+AC DC	If You Want Blood, You've Got It	1978	<__main__.Song object at 0x000001ED14CB4CD0>
+AC DC	If You Want Blood, You've Got It	1978	<__main__.Song object at 0x000001ED14CB4C70>
+AC DC	If You Want Blood, You've Got It	1978	<__main__.Song object at 0x000001ED14CB4C10>
+AC DC	If You Want Blood, You've Got It	1978	<__main__.Song object at 0x000001ED14CB4BB0>
+AC DC	If You Want Blood, You've Got It	1978	<__main__.Song object at 0x000001ED14CB4B50>
+AC DC	If You Want Blood, You've Got It	1978	<__main__.Song object at 0x000001ED14CB4AF0>
+AC DC	If You Want Blood, You've Got It	1978	<__main__.Song object at 0x000001ED14CB4A90>
+AC DC	If You Want Blood, You've Got It	1978	<__main__.Song object at 0x000001ED14CB4A30>
+AC DC	If You Want Blood, You've Got It	1978	<__main__.Song object at 0x000001ED14CB49D0>
+AC DC	If You Want Blood, You've Got It	1978	<__main__.Song object at 0x000001ED14CB4970>
+AC DC	For Those About To Rock (We Salute You)	1981	<__main__.Song object at 0x000001ED14CB48B0>
+AC DC	For Those About To Rock (We Salute You)	1981	<__main__.Song object at 0x000001ED14CB4850>
+AC DC	For Those About To Rock (We Salute You)	1981	<__main__.Song object at 0x000001ED14CB47F0>
+AC DC	For Those About To Rock (We Salute You)	1981	<__main__.Song object at 0x000001ED14CB4790>
+AC DC	For Those About To Rock (We Salute You)	1981	<__main__.Song object at 0x000001ED14CB4730>
+AC DC	For Those About To Rock (We Salute You)	1981	<__main__.Song object at 0x000001ED14CB46D0>
+AC DC	For Those About To Rock (We Salute You)	1981	<__main__.Song object at 0x000001ED14CB4670>
+AC DC	For Those About To Rock (We Salute You)	1981	<__main__.Song object at 0x000001ED14CB4610>
+AC DC	For Those About To Rock (We Salute You)	1981	<__main__.Song object at 0x000001ED14CB45B0>
+AC DC	For Those About To Rock (We Salute You)	1981	<__main__.Song object at 0x000001ED14CB4550>
+Aerosmith	Aerosmith	1973	<__main__.Song object at 0x000001ED14CB4430>
+Aerosmith	Aerosmith	1973	<__main__.Song object at 0x000001ED14CB43D0>
+Aerosmith	Aerosmith	1973	<__main__.Song object at 0x000001ED14CB4370>
+Aerosmith	Aerosmith	1973	<__main__.Song object at 0x000001ED14CB4310>
+Aerosmith	Aerosmith	1973	<__main__.Song object at 0x000001ED14CB42B0>
+Aerosmith	Aerosmith	1973	<__main__.Song object at 0x000001ED14CB4250>
+Aerosmith	Aerosmith	1973	<__main__.Song object at 0x000001ED14CB41F0>
+Aerosmith	Aerosmith	1973	<__main__.Song object at 0x000001ED14CB4190>
+Aerosmith	Get Your Wings	1974	<__main__.Song object at 0x000001ED14CB40D0>
+Aerosmith	Get Your Wings	1974	<__main__.Song object at 0x000001ED14CB4070>
+Aerosmith	Get Your Wings	1974	<__main__.Song object at 0x000001ED14CB2FD0>
+Aerosmith	Get Your Wings	1974	<__main__.Song object at 0x000001ED14CB2F70>
+Aerosmith	Get Your Wings	1974	<__main__.Song object at 0x000001ED14CB2F10>
+Aerosmith	Get Your Wings	1974	<__main__.Song object at 0x000001ED14CB2EB0>
+Aerosmith	Get Your Wings	1974	<__main__.Song object at 0x000001ED14CB2E50>
+Aerosmith	Get Your Wings	1974	<__main__.Song object at 0x000001ED14CB2DF0>
+Aerosmith	Toys In The Attic	1975	<__main__.Song object at 0x000001ED14CB2D30>
+Aerosmith	Toys In The Attic	1975	<__main__.Song object at 0x000001ED14CB2CD0>
+Aerosmith	Toys In The Attic	1975	<__main__.Song object at 0x000001ED14CB2C70>
+Aerosmith	Toys In The Attic	1975	<__main__.Song object at 0x000001ED14CB2C10>
+Aerosmith	Toys In The Attic	1975	<__main__.Song object at 0x000001ED14CB2BB0>
+Aerosmith	Toys In The Attic	1975	<__main__.Song object at 0x000001ED14CB2B50>
+Aerosmith	Toys In The Attic	1975	<__main__.Song object at 0x000001ED14CB2AF0>
+Aerosmith	Toys In The Attic	1975	<__main__.Song object at 0x000001ED14CB2A90>
+Aerosmith	Toys In The Attic	1975	<__main__.Song object at 0x000001ED14CB2A30>
+Aerosmith	Live! Bootleg	1978	<__main__.Song object at 0x000001ED14CB2970>
+Aerosmith	Live! Bootleg	1978	<__main__.Song object at 0x000001ED14CB2910>
+Aerosmith	Live! Bootleg	1978	<__main__.Song object at 0x000001ED14CB28B0>
+Aerosmith	Live! Bootleg	1978	<__main__.Song object at 0x000001ED14CB2850>
+Aerosmith	Live! Bootleg	1978	<__main__.Song object at 0x000001ED14CB27F0>
+Aerosmith	Live! Bootleg	1978	<__main__.Song object at 0x000001ED14CB2790>
+Aerosmith	Live! Bootleg	1978	<__main__.Song object at 0x000001ED14CB2730>
+Aerosmith	Live! Bootleg	1978	<__main__.Song object at 0x000001ED14CB26D0>
+Aerosmith	Live! Bootleg	1978	<__main__.Song object at 0x000001ED14CB2670>
+Aerosmith	Live! Bootleg	1978	<__main__.Song object at 0x000001ED14CB2610>
+Aerosmith	Live! Bootleg	1978	<__main__.Song object at 0x000001ED14CB2190>
+Aerosmith	Live! Bootleg	1978	<__main__.Song object at 0x000001ED14CB1FA0>
+Aerosmith	Live! Bootleg	1978	<__main__.Song object at 0x000001ED14CB1F40>
+Aerosmith	Live! Bootleg	1978	<__main__.Song object at 0x000001ED14CB1EE0>
+Aerosmith	Live! Bootleg	1978	<__main__.Song object at 0x000001ED14CB1E80>
+Aerosmith	Live! Bootleg	1978	<__main__.Song object at 0x000001ED14CB1E20>
+Aerosmith	Night In The Ruts	1979	<__main__.Song object at 0x000001ED14CB1D60>
+Aerosmith	Night In The Ruts	1979	<__main__.Song object at 0x000001ED14CB1D00>
+Aerosmith	Night In The Ruts	1979	<__main__.Song object at 0x000001ED14CB1CA0>
+Aerosmith	Night In The Ruts	1979	<__main__.Song object at 0x000001ED14CB1C40>
+Aerosmith	Night In The Ruts	1979	<__main__.Song object at 0x000001ED14CB1BE0>
+Aerosmith	Night In The Ruts	1979	<__main__.Song object at 0x000001ED14CB1B80>
+Aerosmith	Night In The Ruts	1979	<__main__.Song object at 0x000001ED14CB1B20>
+Aerosmith	Night In The Ruts	1979	<__main__.Song object at 0x000001ED14CB1AC0>
+Aerosmith	Night In The Ruts	1979	<__main__.Song object at 0x000001ED14CB1A60>
+Aerosmith	Done With Mirrors	1985	<__main__.Song object at 0x000001ED14CB19A0>
+Aerosmith	Done With Mirrors	1985	<__main__.Song object at 0x000001ED14CB1940>
+Aerosmith	Done With Mirrors	1985	<__main__.Song object at 0x000001ED14CB18E0>
+Aerosmith	Done With Mirrors	1985	<__main__.Song object at 0x000001ED14CB1880>
+Aerosmith	Done With Mirrors	1985	<__main__.Song object at 0x000001ED14CB1820>
+Aerosmith	Done With Mirrors	1985	<__main__.Song object at 0x000001ED14CB17C0>
+Aerosmith	Done With Mirrors	1985	<__main__.Song object at 0x000001ED14CB1760>
+Aerosmith	Done With Mirrors	1985	<__main__.Song object at 0x000001ED14CB1700>
+Aerosmith	Done With Mirrors	1985	<__main__.Song object at 0x000001ED14CB16A0>
+Aerosmith	Permanent Vacation	1987	<__main__.Song object at 0x000001ED14CB15E0>
+Aerosmith	Permanent Vacation	1987	<__main__.Song object at 0x000001ED14CB1580>
+Aerosmith	Permanent Vacation	1987	<__main__.Song object at 0x000001ED14CB1520>
+Aerosmith	Permanent Vacation	1987	<__main__.Song object at 0x000001ED14CB14C0>
+Aerosmith	Permanent Vacation	1987	<__main__.Song object at 0x000001ED14CB1460>
+Aerosmith	Permanent Vacation	1987	<__main__.Song object at 0x000001ED14CB11C0>
+Aerosmith	Permanent Vacation	1987	<__main__.Song object at 0x000001ED14CB1160>
+Aerosmith	Permanent Vacation	1987	<__main__.Song object at 0x000001ED14CB1100>
+Aerosmith	Permanent Vacation	1987	<__main__.Song object at 0x000001ED14CB10A0>
+Aerosmith	Permanent Vacation	1987	<__main__.Song object at 0x000001ED14CB1040>
+Aerosmith	Permanent Vacation	1987	<__main__.Song object at 0x000001ED1497FC10>
+Aerosmith	Permanent Vacation	1987	<__main__.Song object at 0x000001ED1495A7C0>
+Aerosmith	Gems	1988	<__main__.Song object at 0x000001ED149A4340>
+Aerosmith	Gems	1988	<__main__.Song object at 0x000001ED149A4100>
+Aerosmith	Gems	1988	<__main__.Song object at 0x000001ED14CAB1C0>
+Aerosmith	Gems	1988	<__main__.Song object at 0x000001ED14CAB250>
+Aerosmith	Gems	1988	<__main__.Song object at 0x000001ED14CAB5B0>
+Aerosmith	Gems	1988	<__main__.Song object at 0x000001ED14CAB610>
+Aerosmith	Gems	1988	<__main__.Song object at 0x000001ED14CAB7F0>
+Aerosmith	Gems	1988	<__main__.Song object at 0x000001ED14CAB8B0>
+Aerosmith	Gems	1988	<__main__.Song object at 0x000001ED14CAB550>
+Aerosmith	Gems	1988	<__main__.Song object at 0x000001ED14CAB4F0>
+Aerosmith	Gems	1988	<__main__.Song object at 0x000001ED14CAB490>
+Aerosmith	Gems	1988	<__main__.Song object at 0x000001ED14CAB2E0>
+Aerosmith	Pump	1989	<__main__.Song object at 0x000001ED14CAB130>
+Aerosmith	Pump	1989	<__main__.Song object at 0x000001ED14CAB0D0>
+Aerosmith	Pump	1989	<__main__.Song object at 0x000001ED14CABD30>
+Aerosmith	Pump	1989	<__main__.Song object at 0x000001ED14CABE50>
+Aerosmith	Pump	1989	<__main__.Song object at 0x000001ED14CABEB0>
+Aerosmith	Pump	1989	<__main__.Song object at 0x000001ED14CABF10>
+Aerosmith	Pump	1989	<__main__.Song object at 0x000001ED14CABF70>
+Aerosmith	Pump	1989	<__main__.Song object at 0x000001ED14CAB340>
+Aerosmith	Pump	1989	<__main__.Song object at 0x000001ED14CAB370>
+Aerosmith	Pump	1989	<__main__.Song object at 0x000001ED14CAB400>
+Aerosmith	Get A Grip	1993	<__main__.Song object at 0x000001ED14CC10D0>
+Aerosmith	Get A Grip	1993	<__main__.Song object at 0x000001ED14CC1070>
+Aerosmith	Get A Grip	1993	<__main__.Song object at 0x000001ED14CC13D0>
+Aerosmith	Get A Grip	1993	<__main__.Song object at 0x000001ED14CC1370>
+Aerosmith	Get A Grip	1993	<__main__.Song object at 0x000001ED14CC12E0>
+Aerosmith	Get A Grip	1993	<__main__.Song object at 0x000001ED14CC1250>
+Aerosmith	Get A Grip	1993	<__main__.Song object at 0x000001ED14CC1460>
+Aerosmith	Get A Grip	1993	<__main__.Song object at 0x000001ED14CC14C0>
+Aerosmith	Get A Grip	1993	<__main__.Song object at 0x000001ED14CC1520>
+Aerosmith	Get A Grip	1993	<__main__.Song object at 0x000001ED14CC1580>
+Aerosmith	Get A Grip	1993	<__main__.Song object at 0x000001ED14CC15E0>
+Aerosmith	Get A Grip	1993	<__main__.Song object at 0x000001ED14CC1640>
+Aerosmith	Get A Grip	1993	<__main__.Song object at 0x000001ED14CC16A0>
+Aerosmith	Get A Grip	1993	<__main__.Song object at 0x000001ED14CC1700>
+Aerosmith	Get A Grip	1993	<__main__.Song object at 0x000001ED14CC1760>
+Aerosmith	Big Ones	1994	<__main__.Song object at 0x000001ED14CC1820>
+Aerosmith	Big Ones	1994	<__main__.Song object at 0x000001ED14CC1880>
+Aerosmith	Big Ones	1994	<__main__.Song object at 0x000001ED14CC18E0>
+Aerosmith	Big Ones	1994	<__main__.Song object at 0x000001ED14CC1940>
+Aerosmith	Big Ones	1994	<__main__.Song object at 0x000001ED14CC19A0>
+Aerosmith	Big Ones	1994	<__main__.Song object at 0x000001ED14CC1A00>
+Aerosmith	Big Ones	1994	<__main__.Song object at 0x000001ED14CC1A60>
+Aerosmith	Big Ones	1994	<__main__.Song object at 0x000001ED14CC1AC0>
+Aerosmith	Big Ones	1994	<__main__.Song object at 0x000001ED14CC1B20>
+Aerosmith	Big Ones	1994	<__main__.Song object at 0x000001ED14CC1B80>
+Aerosmith	Big Ones	1994	<__main__.Song object at 0x000001ED14CC1BE0>
+Aerosmith	Big Ones	1994	<__main__.Song object at 0x000001ED14CC1C40>
+Aerosmith	Big Ones	1994	<__main__.Song object at 0x000001ED14CC1CA0>
+Aerosmith	Big Ones	1994	<__main__.Song object at 0x000001ED14CC1D00>
+Aerosmith	Big Ones	1994	<__main__.Song object at 0x000001ED14CC1D60>
+Aerosmith	Big Ones	1994	<__main__.Song object at 0x000001ED14CC1DC0>
+Aerosmith	Nine Lives	1997	<__main__.Song object at 0x000001ED14CC1E80>
+Aerosmith	Nine Lives	1997	<__main__.Song object at 0x000001ED14CC1EE0>
+Aerosmith	Nine Lives	1997	<__main__.Song object at 0x000001ED14CC1F40>
+Aerosmith	Nine Lives	1997	<__main__.Song object at 0x000001ED14CC1FA0>
+Aerosmith	Nine Lives	1997	<__main__.Song object at 0x000001ED14CC4040>
+Aerosmith	Nine Lives	1997	<__main__.Song object at 0x000001ED14CC40A0>
+Aerosmith	Nine Lives	1997	<__main__.Song object at 0x000001ED14CC4100>
+Aerosmith	Nine Lives	1997	<__main__.Song object at 0x000001ED14CC4160>
+Aerosmith	Nine Lives	1997	<__main__.Song object at 0x000001ED14CC41C0>
+Aerosmith	Nine Lives	1997	<__main__.Song object at 0x000001ED14CC4220>
+Aerosmith	Nine Lives	1997	<__main__.Song object at 0x000001ED14CC4280>
+Aerosmith	Nine Lives	1997	<__main__.Song object at 0x000001ED14CC42E0>
+Aerosmith	Nine Lives	1997	<__main__.Song object at 0x000001ED14CC4340>
+Aerosmith	Nine Lives	1997	<__main__.Song object at 0x000001ED14CC43A0>
+Aerosmith	Just Push Play	2001	<__main__.Song object at 0x000001ED14CC4460>
+Aerosmith	Just Push Play	2001	<__main__.Song object at 0x000001ED14CC44C0>
+Aerosmith	Just Push Play	2001	<__main__.Song object at 0x000001ED14CC4520>
+Aerosmith	Just Push Play	2001	<__main__.Song object at 0x000001ED14CC4580>
+Aerosmith	Just Push Play	2001	<__main__.Song object at 0x000001ED14CC45E0>
+Aerosmith	Just Push Play	2001	<__main__.Song object at 0x000001ED14CC4640>
+Aerosmith	Just Push Play	2001	<__main__.Song object at 0x000001ED14CC46A0>
+Aerosmith	Just Push Play	2001	<__main__.Song object at 0x000001ED14CC4700>
+Aerosmith	Just Push Play	2001	<__main__.Song object at 0x000001ED14CC4760>
+Aerosmith	Just Push Play	2001	<__main__.Song object at 0x000001ED14CC47C0>
+Aerosmith	Just Push Play	2001	<__main__.Song object at 0x000001ED14CC4820>
+Aerosmith	Just Push Play	2001	<__main__.Song object at 0x000001ED14CC4880>
+Aerosmith	Just Push Play	2001	<__main__.Song object at 0x000001ED14CC48E0>
+Alice Cooper	Welcome To My Nightmare	1975	<__main__.Song object at 0x000001ED14CC4A00>
+Alice Cooper	Welcome To My Nightmare	1975	<__main__.Song object at 0x000001ED14CC4A60>
+Alice Cooper	Welcome To My Nightmare	1975	<__main__.Song object at 0x000001ED14CC4AC0>
+Alice Cooper	Welcome To My Nightmare	1975	<__main__.Song object at 0x000001ED14CC4B20>
+Alice Cooper	Welcome To My Nightmare	1975	<__main__.Song object at 0x000001ED14CC4B80>
+Alice Cooper	Welcome To My Nightmare	1975	<__main__.Song object at 0x000001ED14CC4BE0>
+Alice Cooper	Welcome To My Nightmare	1975	<__main__.Song object at 0x000001ED14CC4C40>
+Alice Cooper	Welcome To My Nightmare	1975	<__main__.Song object at 0x000001ED14CC4CA0>
+Alice Cooper	Welcome To My Nightmare	1975	<__main__.Song object at 0x000001ED14CC4D00>
+Alice Cooper	Welcome To My Nightmare	1975	<__main__.Song object at 0x000001ED14CC4D60>
+Alice Cooper	Welcome To My Nightmare	1975	<__main__.Song object at 0x000001ED14CC4DC0>
+Alice Cooper	Welcome To My Nightmare	1975	<__main__.Song object at 0x000001ED14CC4E20>
+Alice Cooper	Welcome To My Nightmare	1975	<__main__.Song object at 0x000001ED14CC4E80>
+Alice Cooper	Welcome To My Nightmare	1975	<__main__.Song object at 0x000001ED14CC4EE0>
+Alice Cooper	Hell Is	2003	<__main__.Song object at 0x000001ED14CC4FA0>
+Alice Cooper	Hell Is	2003	<__main__.Song object at 0x000001ED14CC6040>
+Alice Cooper	Hell Is	2003	<__main__.Song object at 0x000001ED14CC60A0>
+Alice Cooper	Hell Is	2003	<__main__.Song object at 0x000001ED14CC6100>
+Alice Cooper	Hell Is	2003	<__main__.Song object at 0x000001ED14CC6160>
+Alice Cooper	Hell Is	2003	<__main__.Song object at 0x000001ED14CC61C0>
+Alice Cooper	Hell Is	2003	<__main__.Song object at 0x000001ED14CC6220>
+Alice Cooper	Hell Is	2003	<__main__.Song object at 0x000001ED14CC6280>
+Alice Cooper	Hell Is	2003	<__main__.Song object at 0x000001ED14CC62E0>
+Alice Cooper	Hell Is	2003	<__main__.Song object at 0x000001ED14CC6340>
+Alice Cooper	Hell Is	2003	<__main__.Song object at 0x000001ED14CC63A0>
+Alice Cooper	Hell Is	2003	<__main__.Song object at 0x000001ED14CC6400>
+Alice Cooper	Hell Is	2003	<__main__.Song object at 0x000001ED14CC6460>
+Alice Cooper	Hell Is	2003	<__main__.Song object at 0x000001ED14CC64C0>
+Alice Cooper	Hell Is	2003	<__main__.Song object at 0x000001ED14CC6520>
+Alice Cooper	Hell Is	2003	<__main__.Song object at 0x000001ED14CC6580>
+Animals	The Most Of The Animals	1966	<__main__.Song object at 0x000001ED14CC66A0>
+Animals	The Most Of The Animals	1966	<__main__.Song object at 0x000001ED14CC6700>
+Animals	The Most Of The Animals	1966	<__main__.Song object at 0x000001ED14CC6760>
+Animals	The Most Of The Animals	1966	<__main__.Song object at 0x000001ED14CC67C0>
+Animals	The Most Of The Animals	1966	<__main__.Song object at 0x000001ED14CC6820>
+Animals	The Most Of The Animals	1966	<__main__.Song object at 0x000001ED14CC6880>
+Animals	The Most Of The Animals	1966	<__main__.Song object at 0x000001ED14CC68E0>
+Animals	The Most Of The Animals	1966	<__main__.Song object at 0x000001ED14CC6940>
+Animals	The Most Of The Animals	1966	<__main__.Song object at 0x000001ED14CC69A0>
+Animals	The Most Of The Animals	1966	<__main__.Song object at 0x000001ED14CC6A00>
+Animals	The Most Of The Animals	1966	<__main__.Song object at 0x000001ED14CC6A60>
+Animals	The Most Of The Animals	1966	<__main__.Song object at 0x000001ED14CC6AC0>
+Animals	The Most Of The Animals	1966	<__main__.Song object at 0x000001ED14CC6B20>
+Animals	The Most Of The Animals	1966	<__main__.Song object at 0x000001ED14CC6B80>
+Animals	The Most Of The Animals	1966	<__main__.Song object at 0x000001ED14CC6BE0>
+Animals	The Most Of The Animals	1966	<__main__.Song object at 0x000001ED14CC6C40>
+George Thorogood & The Destroyers	One Bourbon, One Scotch, One Beer	2009	<__main__.Song object at 0x000001ED14CC6D60>
+George Thorogood & The Destroyers	One Bourbon, One Scotch, One Beer	2009	<__main__.Song object at 0x000001ED14CC6DC0>
+George Thorogood & The Destroyers	One Bourbon, One Scotch, One Beer	2009	<__main__.Song object at 0x000001ED14CC6E20>
+George Thorogood & The Destroyers	One Bourbon, One Scotch, One Beer	2009	<__main__.Song object at 0x000001ED14CC6E80>
+George Thorogood & The Destroyers	One Bourbon, One Scotch, One Beer	2009	<__main__.Song object at 0x000001ED14CC6EE0>
+George Thorogood & The Destroyers	One Bourbon, One Scotch, One Beer	2009	<__main__.Song object at 0x000001ED14CC6F40>
+George Thorogood & The Destroyers	One Bourbon, One Scotch, One Beer	2009	<__main__.Song object at 0x000001ED14CC6FA0>
+George Thorogood & The Destroyers	One Bourbon, One Scotch, One Beer	2009	<__main__.Song object at 0x000001ED14CC9040>
+George Thorogood & The Destroyers	One Bourbon, One Scotch, One Beer	2009	<__main__.Song object at 0x000001ED14CC90A0>
+George Thorogood & The Destroyers	One Bourbon, One Scotch, One Beer	2009	<__main__.Song object at 0x000001ED14CC9100>
+George Thorogood & The Destroyers	Ride 'Til I Die	2003	<__main__.Song object at 0x000001ED14CC91C0>
+George Thorogood & The Destroyers	Ride 'Til I Die	2003	<__main__.Song object at 0x000001ED14CC9220>
+George Thorogood & The Destroyers	Ride 'Til I Die	2003	<__main__.Song object at 0x000001ED14CC9280>
+George Thorogood & The Destroyers	Ride 'Til I Die	2003	<__main__.Song object at 0x000001ED14CC92E0>
+George Thorogood & The Destroyers	Ride 'Til I Die	2003	<__main__.Song object at 0x000001ED14CC9340>
+George Thorogood & The Destroyers	Ride 'Til I Die	2003	<__main__.Song object at 0x000001ED14CC93A0>
+George Thorogood & The Destroyers	Ride 'Til I Die	2003	<__main__.Song object at 0x000001ED14CC9400>
+George Thorogood & The Destroyers	Ride 'Til I Die	2003	<__main__.Song object at 0x000001ED14CC9460>
+George Thorogood & The Destroyers	Ride 'Til I Die	2003	<__main__.Song object at 0x000001ED14CC94C0>
+George Thorogood & The Destroyers	Ride 'Til I Die	2003	<__main__.Song object at 0x000001ED14CC9520>
+George Thorogood & The Destroyers	Ride 'Til I Die	2003	<__main__.Song object at 0x000001ED14CC9580>
+George Thorogood & The Destroyers	Ride 'Til I Die	2003	<__main__.Song object at 0x000001ED14CC95E0>
+George Thorogood & The Destroyers	Ride 'Til I Die	2003	<__main__.Song object at 0x000001ED14CC9640>
+George Thorogood & The Destroyers	The Baddest Of George Thorogood & The Destroyers	1992	<__main__.Song object at 0x000001ED14CC9700>
+George Thorogood & The Destroyers	The Baddest Of George Thorogood & The Destroyers	1992	<__main__.Song object at 0x000001ED14CC9760>
+George Thorogood & The Destroyers	The Baddest Of George Thorogood & The Destroyers	1992	<__main__.Song object at 0x000001ED14CC97C0>
+George Thorogood & The Destroyers	The Baddest Of George Thorogood & The Destroyers	1992	<__main__.Song object at 0x000001ED14CC9820>
+George Thorogood & The Destroyers	The Baddest Of George Thorogood & The Destroyers	1992	<__main__.Song object at 0x000001ED14CC9880>
+George Thorogood & The Destroyers	The Baddest Of George Thorogood & The Destroyers	1992	<__main__.Song object at 0x000001ED14CC98E0>
+George Thorogood & The Destroyers	The Baddest Of George Thorogood & The Destroyers	1992	<__main__.Song object at 0x000001ED14CC9940>
+George Thorogood & The Destroyers	The Baddest Of George Thorogood & The Destroyers	1992	<__main__.Song object at 0x000001ED14CC99A0>
+George Thorogood & The Destroyers	The Baddest Of George Thorogood & The Destroyers	1992	<__main__.Song object at 0x000001ED14CC9A00>
+George Thorogood & The Destroyers	The Baddest Of George Thorogood & The Destroyers	1992	<__main__.Song object at 0x000001ED14CC9A60>
+George Thorogood & The Destroyers	The Baddest Of George Thorogood & The Destroyers	1992	<__main__.Song object at 0x000001ED14CC9AC0>
+George Thorogood & The Destroyers	The Baddest Of George Thorogood & The Destroyers	1992	<__main__.Song object at 0x000001ED14CC9B20>
+Hayseed Dixie	Weapons Of Grass Destruction	2007	<__main__.Song object at 0x000001ED14CC9C40>
+Hayseed Dixie	Weapons Of Grass Destruction	2007	<__main__.Song object at 0x000001ED14CC9CA0>
+Hayseed Dixie	Weapons Of Grass Destruction	2007	<__main__.Song object at 0x000001ED14CC9D00>
+Hayseed Dixie	Weapons Of Grass Destruction	2007	<__main__.Song object at 0x000001ED14CC9D60>
+Hayseed Dixie	Weapons Of Grass Destruction	2007	<__main__.Song object at 0x000001ED14CC9DC0>
+Hayseed Dixie	Weapons Of Grass Destruction	2007	<__main__.Song object at 0x000001ED14CC9E20>
+Hayseed Dixie	Weapons Of Grass Destruction	2007	<__main__.Song object at 0x000001ED14CC9E80>
+Hayseed Dixie	Weapons Of Grass Destruction	2007	<__main__.Song object at 0x000001ED14CC9EE0>
+Hayseed Dixie	Weapons Of Grass Destruction	2007	<__main__.Song object at 0x000001ED14CC9F40>
+Hayseed Dixie	Weapons Of Grass Destruction	2007	<__main__.Song object at 0x000001ED14CC9FA0>
+Hayseed Dixie	Weapons Of Grass Destruction	2007	<__main__.Song object at 0x000001ED14CCB040>
+Hayseed Dixie	Weapons Of Grass Destruction	2007	<__main__.Song object at 0x000001ED14CCB0A0>
+Hayseed Dixie	Weapons Of Grass Destruction	2007	<__main__.Song object at 0x000001ED14CCB100>
+Hayseed Dixie	Weapons Of Grass Destruction	2007	<__main__.Song object at 0x000001ED14CCB160>
+Hayseed Dixie	Weapons Of Grass Destruction	2007	<__main__.Song object at 0x000001ED14CCB1C0>
+Heart	Dreamboat Annie	1976	<__main__.Song object at 0x000001ED14CCB2E0>
+Heart	Dreamboat Annie	1976	<__main__.Song object at 0x000001ED14CCB340>
+Heart	Dreamboat Annie	1976	<__main__.Song object at 0x000001ED14CCB3A0>
+Heart	Dreamboat Annie	1976	<__main__.Song object at 0x000001ED14CCB400>
+Heart	Dreamboat Annie	1976	<__main__.Song object at 0x000001ED14CCB460>
+Heart	Dreamboat Annie	1976	<__main__.Song object at 0x000001ED14CCB4C0>
+Heart	Dreamboat Annie	1976	<__main__.Song object at 0x000001ED14CCB520>
+Heart	Dreamboat Annie	1976	<__main__.Song object at 0x000001ED14CCB580>
+Heart	Dreamboat Annie	1976	<__main__.Song object at 0x000001ED14CCB5E0>
+Heart	Dreamboat Annie	1976	<__main__.Song object at 0x000001ED14CCB640>
+Heart	Little Queen	1977	<__main__.Song object at 0x000001ED14CCB700>
+Heart	Little Queen	1977	<__main__.Song object at 0x000001ED14CCB760>
+Heart	Little Queen	1977	<__main__.Song object at 0x000001ED14CCB7C0>
+Heart	Little Queen	1977	<__main__.Song object at 0x000001ED14CCB820>
+Heart	Little Queen	1977	<__main__.Song object at 0x000001ED14CCB880>
+Heart	Little Queen	1977	<__main__.Song object at 0x000001ED14CCB8E0>
+Heart	Little Queen	1977	<__main__.Song object at 0x000001ED14CCB940>
+Heart	Little Queen	1977	<__main__.Song object at 0x000001ED14CCB9A0>
+Heart	Little Queen	1977	<__main__.Song object at 0x000001ED14CCBA00>
+Heart	Little Queen	1977	<__main__.Song object at 0x000001ED14CCBA60>
+Heart	Little Queen	1977	<__main__.Song object at 0x000001ED14CCBAC0>
+Heart	Little Queen	1977	<__main__.Song object at 0x000001ED14CCBB20>
+Heart	Dog & Butterfly	1978	<__main__.Song object at 0x000001ED14CCBBE0>
+Heart	Dog & Butterfly	1978	<__main__.Song object at 0x000001ED14CCBC40>
+Heart	Dog & Butterfly	1978	<__main__.Song object at 0x000001ED14CCBCA0>
+Heart	Dog & Butterfly	1978	<__main__.Song object at 0x000001ED14CCBD00>
+Heart	Dog & Butterfly	1978	<__main__.Song object at 0x000001ED14CCBD60>
+Heart	Dog & Butterfly	1978	<__main__.Song object at 0x000001ED14CCBDC0>
+Heart	Dog & Butterfly	1978	<__main__.Song object at 0x000001ED14CCBE20>
+Heart	Dog & Butterfly	1978	<__main__.Song object at 0x000001ED14CCBE80>
+Heart	Dog & Butterfly	1978	<__main__.Song object at 0x000001ED14CCBEE0>
+Heart	Dog & Butterfly	1978	<__main__.Song object at 0x000001ED14CCBF40>
+Heart	Dog & Butterfly	1978	<__main__.Song object at 0x000001ED14CCBFA0>
+Heaven & Hell	The Devil You Know	2009	<__main__.Song object at 0x000001ED14CCF100>
+Heaven & Hell	The Devil You Know	2009	<__main__.Song object at 0x000001ED14CCF160>
+Heaven & Hell	The Devil You Know	2009	<__main__.Song object at 0x000001ED14CCF1C0>
+Heaven & Hell	The Devil You Know	2009	<__main__.Song object at 0x000001ED14CCF220>
+Heaven & Hell	The Devil You Know	2009	<__main__.Song object at 0x000001ED14CCF280>
+Heaven & Hell	The Devil You Know	2009	<__main__.Song object at 0x000001ED14CCF2E0>
+Heaven & Hell	The Devil You Know	2009	<__main__.Song object at 0x000001ED14CCF340>
+Heaven & Hell	The Devil You Know	2009	<__main__.Song object at 0x000001ED14CCF3A0>
+Heaven & Hell	The Devil You Know	2009	<__main__.Song object at 0x000001ED14CCF400>
+Heaven & Hell	The Devil You Know	2009	<__main__.Song object at 0x000001ED14CCF460>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<__main__.Song object at 0x000001ED14CCF580>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<__main__.Song object at 0x000001ED14CCF5E0>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<__main__.Song object at 0x000001ED14CCF640>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<__main__.Song object at 0x000001ED14CCF6A0>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<__main__.Song object at 0x000001ED14CCF700>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<__main__.Song object at 0x000001ED14CCF760>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<__main__.Song object at 0x000001ED14CCF7C0>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<__main__.Song object at 0x000001ED14CCF820>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<__main__.Song object at 0x000001ED14CCF880>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<__main__.Song object at 0x000001ED14CCF8E0>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<__main__.Song object at 0x000001ED14CCF940>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<__main__.Song object at 0x000001ED14CCF9A0>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<__main__.Song object at 0x000001ED14CCFA00>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<__main__.Song object at 0x000001ED14CCFA60>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<__main__.Song object at 0x000001ED14CCFAC0>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<__main__.Song object at 0x000001ED14CCFB20>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<__main__.Song object at 0x000001ED14CCFB80>
+John Lee Hooker	Boogie Man - The Blues Collection 1	1993	<__main__.Song object at 0x000001ED14CCFBE0>
+Treatment	Running With The Dogs	2014	<__main__.Song object at 0x000001ED14CCFD00>
+Treatment	Running With The Dogs	2014	<__main__.Song object at 0x000001ED14CCFD60>
+Treatment	Running With The Dogs	2014	<__main__.Song object at 0x000001ED14CCFDC0>
+Treatment	Running With The Dogs	2014	<__main__.Song object at 0x000001ED14CCFE20>
+Treatment	Running With The Dogs	2014	<__main__.Song object at 0x000001ED14CCFE80>
+Treatment	Running With The Dogs	2014	<__main__.Song object at 0x000001ED14CCFEE0>
+Treatment	Running With The Dogs	2014	<__main__.Song object at 0x000001ED14CCFF40>
+Treatment	Running With The Dogs	2014	<__main__.Song object at 0x000001ED14CCFFA0>
+Treatment	Running With The Dogs	2014	<__main__.Song object at 0x000001ED14CD3040>
+Treatment	Running With The Dogs	2014	<__main__.Song object at 0x000001ED14CD30A0>
+Treatment	Running With The Dogs	2014	<__main__.Song object at 0x000001ED14CD3100>
+Treatment	Running With The Dogs	2014	<__main__.Song object at 0x000001ED14CD3160>
+Treatment	Running With The Dogs	2014	<__main__.Song object at 0x000001ED14CD31C0>
+Treatment	Running With The Dogs	2014	<__main__.Song object at 0x000001ED14CD3220>
+Treatment	Running With The Dogs	2014	<__main__.Song object at 0x000001ED14CD3280>
+Treatment	Running With The Dogs	2014	<__main__.Song object at 0x000001ED14CD32E0>
+Treatment	Running With The Dogs	2014	<__main__.Song object at 0x000001ED14CD3340>
+Treatment	Running With The Dogs	2014	<__main__.Song object at 0x000001ED14CD33A0>
+Treatment	Running With The Dogs	2014	<__main__.Song object at 0x000001ED14CD3400>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<__main__.Song object at 0x000001ED14CD3520>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<__main__.Song object at 0x000001ED14CD3580>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<__main__.Song object at 0x000001ED14CD35E0>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<__main__.Song object at 0x000001ED14CD3640>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<__main__.Song object at 0x000001ED14CD36A0>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<__main__.Song object at 0x000001ED14CD3700>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<__main__.Song object at 0x000001ED14CD3760>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<__main__.Song object at 0x000001ED14CD37C0>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<__main__.Song object at 0x000001ED14CD3820>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<__main__.Song object at 0x000001ED14CD3880>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<__main__.Song object at 0x000001ED14CD38E0>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<__main__.Song object at 0x000001ED14CD3940>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<__main__.Song object at 0x000001ED14CD39A0>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<__main__.Song object at 0x000001ED14CD3A00>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<__main__.Song object at 0x000001ED14CD3A60>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<__main__.Song object at 0x000001ED14CD3AC0>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<__main__.Song object at 0x000001ED14CD3B20>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<__main__.Song object at 0x000001ED14CD3B80>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<__main__.Song object at 0x000001ED14CD3BE0>
+T.Rex	The Very Best Of Marc Bolan And T. Rex	1991	<__main__.Song object at 0x000001ED14CD3C40>
+Troggs	Athens Andover	1992	<__main__.Song object at 0x000001ED14CD3D60>
+Troggs	Athens Andover	1992	<__main__.Song object at 0x000001ED14CD3DC0>
+Troggs	Athens Andover	1992	<__main__.Song object at 0x000001ED14CD3E20>
+Troggs	Athens Andover	1992	<__main__.Song object at 0x000001ED14CD3E80>
+Troggs	Athens Andover	1992	<__main__.Song object at 0x000001ED14CD3EE0>
+Troggs	Athens Andover	1992	<__main__.Song object at 0x000001ED14CD3F40>
+Troggs	Athens Andover	1992	<__main__.Song object at 0x000001ED14CD3FA0>
+Troggs	Athens Andover	1992	<__main__.Song object at 0x000001ED14CD5040>
+Troggs	Athens Andover	1992	<__main__.Song object at 0x000001ED14CD50A0>
+Troggs	Athens Andover	1992	<__main__.Song object at 0x000001ED14CD5100>
+Troggs	Athens Andover	1992	<__main__.Song object at 0x000001ED14CD5160>
+Troggs	Wild Thing - The Greatest Hits	1993	<__main__.Song object at 0x000001ED14CD5220>
+Troggs	Wild Thing - The Greatest Hits	1993	<__main__.Song object at 0x000001ED14CD5280>
+Troggs	Wild Thing - The Greatest Hits	1993	<__main__.Song object at 0x000001ED14CD52E0>
+Troggs	Wild Thing - The Greatest Hits	1993	<__main__.Song object at 0x000001ED14CD5340>
+Troggs	Wild Thing - The Greatest Hits	1993	<__main__.Song object at 0x000001ED14CD53A0>
+Troggs	Wild Thing - The Greatest Hits	1993	<__main__.Song object at 0x000001ED14CD5400>
+Troggs	Wild Thing - The Greatest Hits	1993	<__main__.Song object at 0x000001ED14CD5460>
+Troggs	Wild Thing - The Greatest Hits	1993	<__main__.Song object at 0x000001ED14CD54C0>
+Troggs	Wild Thing - The Greatest Hits	1993	<__main__.Song object at 0x000001ED14CD5520>
+Troggs	Wild Thing - The Greatest Hits	1993	<__main__.Song object at 0x000001ED14CD5580>
+Troggs	Wild Thing - The Greatest Hits	1993	<__main__.Song object at 0x000001ED14CD55E0>
+Troggs	Wild Thing - The Greatest Hits	1993	<__main__.Song object at 0x000001ED14CD5640>
+Troggs	Wild Thing - The Greatest Hits	1993	<__main__.Song object at 0x000001ED14CD56A0>
+Troggs	Wild Thing - The Greatest Hits	1993	<__main__.Song object at 0x000001ED14CD5700>
+U2	18 Singles	2006	<__main__.Song object at 0x000001ED14CD5820>
+U2	18 Singles	2006	<__main__.Song object at 0x000001ED14CD5880>
+U2	18 Singles	2006	<__main__.Song object at 0x000001ED14CD58E0>
+U2	18 Singles	2006	<__main__.Song object at 0x000001ED14CD5940>
+U2	18 Singles	2006	<__main__.Song object at 0x000001ED14CD59A0>
+U2	18 Singles	2006	<__main__.Song object at 0x000001ED14CD5A00>
+U2	18 Singles	2006	<__main__.Song object at 0x000001ED14CD5A60>
+U2	18 Singles	2006	<__main__.Song object at 0x000001ED14CD5AC0>
+U2	18 Singles	2006	<__main__.Song object at 0x000001ED14CD5B20>
+U2	18 Singles	2006	<__main__.Song object at 0x000001ED14CD5B80>
+U2	18 Singles	2006	<__main__.Song object at 0x000001ED14CD5BE0>
+U2	18 Singles	2006	<__main__.Song object at 0x000001ED14CD5C40>
+U2	18 Singles	2006	<__main__.Song object at 0x000001ED14CD5CA0>
+U2	18 Singles	2006	<__main__.Song object at 0x000001ED14CD5D00>
+U2	18 Singles	2006	<__main__.Song object at 0x000001ED14CD5D60>
+U2	18 Singles	2006	<__main__.Song object at 0x000001ED14CD5DC0>
+U2	18 Singles	2006	<__main__.Song object at 0x000001ED14CD5E20>
+U2	18 Singles	2006	<__main__.Song object at 0x000001ED14CD5E80>
+U2	18 Singles	2006	<__main__.Song object at 0x000001ED14CD5EE0>
+UFO	Phenomenon	1999	<__main__.Song object at 0x000001ED14CD7040>
+UFO	Phenomenon	1999	<__main__.Song object at 0x000001ED14CD70A0>
+UFO	Phenomenon	1999	<__main__.Song object at 0x000001ED14CD7100>
+UFO	Phenomenon	1999	<__main__.Song object at 0x000001ED14CD7160>
+UFO	Phenomenon	1999	<__main__.Song object at 0x000001ED14CD71C0>
+UFO	Phenomenon	1999	<__main__.Song object at 0x000001ED14CD7220>
+UFO	Phenomenon	1999	<__main__.Song object at 0x000001ED14CD7280>
+UFO	Phenomenon	1999	<__main__.Song object at 0x000001ED14CD72E0>
+UFO	Phenomenon	1999	<__main__.Song object at 0x000001ED14CD7340>
+UFO	Phenomenon	1999	<__main__.Song object at 0x000001ED14CD73A0>
+Uriah Heep	Demons And Wizards	1972	<__main__.Song object at 0x000001ED14CD74C0>
+Uriah Heep	Demons And Wizards	1972	<__main__.Song object at 0x000001ED14CD7520>
+Uriah Heep	Demons And Wizards	1972	<__main__.Song object at 0x000001ED14CD7580>
+Uriah Heep	Demons And Wizards	1972	<__main__.Song object at 0x000001ED14CD75E0>
+Uriah Heep	Demons And Wizards	1972	<__main__.Song object at 0x000001ED14CD7640>
+Uriah Heep	Demons And Wizards	1972	<__main__.Song object at 0x000001ED14CD76A0>
+Uriah Heep	Demons And Wizards	1972	<__main__.Song object at 0x000001ED14CD7700>
+Uriah Heep	Demons And Wizards	1972	<__main__.Song object at 0x000001ED14CD7760>
+Uriah Heep	Demons And Wizards	1972	<__main__.Song object at 0x000001ED14CD77C0>
+Uriah Heep	The Magician's Birthday	1972	<__main__.Song object at 0x000001ED14CD7880>
+Uriah Heep	The Magician's Birthday	1972	<__main__.Song object at 0x000001ED14CD78E0>
+Uriah Heep	The Magician's Birthday	1972	<__main__.Song object at 0x000001ED14CD7940>
+Uriah Heep	The Magician's Birthday	1972	<__main__.Song object at 0x000001ED14CD79A0>
+Uriah Heep	The Magician's Birthday	1972	<__main__.Song object at 0x000001ED14CD7A00>
+Uriah Heep	The Magician's Birthday	1972	<__main__.Song object at 0x000001ED14CD7A60>
+Uriah Heep	The Magician's Birthday	1972	<__main__.Song object at 0x000001ED14CD7AC0>
+Uriah Heep	The Magician's Birthday	1972	<__main__.Song object at 0x000001ED14CD7B20>
+Uriah Heep	Uriah Heep Live	1986	<__main__.Song object at 0x000001ED14CD7BE0>
+Uriah Heep	Uriah Heep Live	1986	<__main__.Song object at 0x000001ED14CD7C40>
+Uriah Heep	Uriah Heep Live	1986	<__main__.Song object at 0x000001ED14CD7CA0>
+Uriah Heep	Uriah Heep Live	1986	<__main__.Song object at 0x000001ED14CD7D00>
+Uriah Heep	Uriah Heep Live	1986	<__main__.Song object at 0x000001ED14CD7D60>
+Uriah Heep	Uriah Heep Live	1986	<__main__.Song object at 0x000001ED14CD7DC0>
+Uriah Heep	Uriah Heep Live	1986	<__main__.Song object at 0x000001ED14CD7E20>
+Uriah Heep	Uriah Heep Live	1986	<__main__.Song object at 0x000001ED14CD7E80>
+Vangelis	Albedo 0.39	1976	<__main__.Song object at 0x000001ED14CD7FA0>
+Vangelis	Albedo 0.39	1976	<__main__.Song object at 0x000001ED14CDA040>
+Vangelis	Albedo 0.39	1976	<__main__.Song object at 0x000001ED14CDA0A0>
+Vangelis	Albedo 0.39	1976	<__main__.Song object at 0x000001ED14CDA100>
+Vangelis	Albedo 0.39	1976	<__main__.Song object at 0x000001ED14CDA160>
+Vangelis	Albedo 0.39	1976	<__main__.Song object at 0x000001ED14CDA1C0>
+Vangelis	Albedo 0.39	1976	<__main__.Song object at 0x000001ED14CDA220>
+Vangelis	Albedo 0.39	1976	<__main__.Song object at 0x000001ED14CDA280>
+Vangelis	Albedo 0.39	1976	<__main__.Song object at 0x000001ED14CDA2E0>
+Van Halen	Van Halen	1978	<__main__.Song object at 0x000001ED14CDA400>
+Van Halen	Van Halen	1978	<__main__.Song object at 0x000001ED14CDA460>
+Van Halen	Van Halen	1978	<__main__.Song object at 0x000001ED14CDA4C0>
+Van Halen	Van Halen	1978	<__main__.Song object at 0x000001ED14CDA520>
+Van Halen	Van Halen	1978	<__main__.Song object at 0x000001ED14CDA580>
+Van Halen	Van Halen	1978	<__main__.Song object at 0x000001ED14CDA5E0>
+Van Halen	Van Halen	1978	<__main__.Song object at 0x000001ED14CDA640>
+Van Halen	Van Halen	1978	<__main__.Song object at 0x000001ED14CDA6A0>
+Van Halen	Van Halen	1978	<__main__.Song object at 0x000001ED14CDA700>
+Van Halen	Van Halen	1978	<__main__.Song object at 0x000001ED14CDA760>
+Van Halen	Van Halen	1978	<__main__.Song object at 0x000001ED14CDA7C0>
+Van Halen	1984	1984	<__main__.Song object at 0x000001ED14CDA880>
+Van Halen	1984	1984	<__main__.Song object at 0x000001ED14CDA8E0>
+Van Halen	1984	1984	<__main__.Song object at 0x000001ED14CDA940>
+Van Halen	1984	1984	<__main__.Song object at 0x000001ED14CDA9A0>
+Van Halen	1984	1984	<__main__.Song object at 0x000001ED14CDAA00>
+Van Halen	1984	1984	<__main__.Song object at 0x000001ED14CDAA60>
+Van Halen	1984	1984	<__main__.Song object at 0x000001ED14CDAAC0>
+Van Halen	1984	1984	<__main__.Song object at 0x000001ED14CDAB20>
+Van Halen	1984	1984	<__main__.Song object at 0x000001ED14CDAB80>
+Velvet Revolver	Libertad	2007	<__main__.Song object at 0x000001ED14CDACA0>
+Velvet Revolver	Libertad	2007	<__main__.Song object at 0x000001ED14CDAD00>
+Velvet Revolver	Libertad	2007	<__main__.Song object at 0x000001ED14CDAD60>
+Velvet Revolver	Libertad	2007	<__main__.Song object at 0x000001ED14CDADC0>
+Velvet Revolver	Libertad	2007	<__main__.Song object at 0x000001ED14CDAE20>
+Velvet Revolver	Libertad	2007	<__main__.Song object at 0x000001ED14CDAE80>
+Velvet Revolver	Libertad	2007	<__main__.Song object at 0x000001ED14CDAEE0>
+Velvet Revolver	Libertad	2007	<__main__.Song object at 0x000001ED14CDAF40>
+Velvet Revolver	Libertad	2007	<__main__.Song object at 0x000001ED14CDAFA0>
+Velvet Revolver	Libertad	2007	<__main__.Song object at 0x000001ED14CDC040>
+Velvet Revolver	Libertad	2007	<__main__.Song object at 0x000001ED14CDC0A0>
+Velvet Revolver	Libertad	2007	<__main__.Song object at 0x000001ED14CDC100>
+Velvet Revolver	Libertad	2007	<__main__.Song object at 0x000001ED14CDC160>
+Velvet Underground	The Velvet Underground & Nico	1967	<__main__.Song object at 0x000001ED14CDC280>
+Velvet Underground	The Velvet Underground & Nico	1967	<__main__.Song object at 0x000001ED14CDC2E0>
+Velvet Underground	The Velvet Underground & Nico	1967	<__main__.Song object at 0x000001ED14CDC340>
+Velvet Underground	The Velvet Underground & Nico	1967	<__main__.Song object at 0x000001ED14CDC3A0>
+Velvet Underground	The Velvet Underground & Nico	1967	<__main__.Song object at 0x000001ED14CDC400>
+Velvet Underground	The Velvet Underground & Nico	1967	<__main__.Song object at 0x000001ED14CDC460>
+Velvet Underground	The Velvet Underground & Nico	1967	<__main__.Song object at 0x000001ED14CDC4C0>
+Velvet Underground	The Velvet Underground & Nico	1967	<__main__.Song object at 0x000001ED14CDC520>
+Velvet Underground	The Velvet Underground & Nico	1967	<__main__.Song object at 0x000001ED14CDC580>
+Velvet Underground	The Velvet Underground & Nico	1967	<__main__.Song object at 0x000001ED14CDC5E0>
+Velvet Underground	The Velvet Underground & Nico	1967	<__main__.Song object at 0x000001ED14CDC640>
+Vladimir Vysotsky	Izbrannoye	2011	<__main__.Song object at 0x000001ED14CDC760>
+Warner E Hodges	Gunslinger	2014	<__main__.Song object at 0x000001ED14CDC880>
+Warner E Hodges	Gunslinger	2014	<__main__.Song object at 0x000001ED14CDC8E0>
+Warner E Hodges	Gunslinger	2014	<__main__.Song object at 0x000001ED14CDC940>
+Warner E Hodges	Gunslinger	2014	<__main__.Song object at 0x000001ED14CDC9A0>
+Warner E Hodges	Gunslinger	2014	<__main__.Song object at 0x000001ED14CDCA00>
+Warner E Hodges	Gunslinger	2014	<__main__.Song object at 0x000001ED14CDCA60>
+Warner E Hodges	Gunslinger	2014	<__main__.Song object at 0x000001ED14CDCAC0>
+Warner E Hodges	Gunslinger	2014	<__main__.Song object at 0x000001ED14CDCB20>
+Warner E Hodges	Gunslinger	2014	<__main__.Song object at 0x000001ED14CDCB80>
+Warner E Hodges	Gunslinger	2014	<__main__.Song object at 0x000001ED14CDCBE0>
+White Zombie	Astro-Creep	2000	<__main__.Song object at 0x000001ED14CDCD00>
+White Zombie	Astro-Creep	2000	<__main__.Song object at 0x000001ED14CDCD60>
+White Zombie	Astro-Creep	2000	<__main__.Song object at 0x000001ED14CDCDC0>
+White Zombie	Astro-Creep	2000	<__main__.Song object at 0x000001ED14CDCE20>
+White Zombie	Astro-Creep	2000	<__main__.Song object at 0x000001ED14CDCE80>
+White Zombie	Astro-Creep	2000	<__main__.Song object at 0x000001ED14CDCEE0>
+White Zombie	Astro-Creep	2000	<__main__.Song object at 0x000001ED14CDCF40>
+White Zombie	Astro-Creep	2000	<__main__.Song object at 0x000001ED14CDCFA0>
+White Zombie	Astro-Creep	2000	<__main__.Song object at 0x000001ED14CDF040>
+White Zombie	Astro-Creep	2000	<__main__.Song object at 0x000001ED14CDF0A0>
+White Zombie	Astro-Creep	2000	<__main__.Song object at 0x000001ED14CDF100>
+Wishbone Ash	Argus	1972	<__main__.Song object at 0x000001ED14CDF220>
+Wishbone Ash	Argus	1972	<__main__.Song object at 0x000001ED14CDF280>
+Wishbone Ash	Argus	1972	<__main__.Song object at 0x000001ED14CDF2E0>
+Wishbone Ash	Argus	1972	<__main__.Song object at 0x000001ED14CDF340>
+Wishbone Ash	Argus	1972	<__main__.Song object at 0x000001ED14CDF3A0>
+Wishbone Ash	Argus	1972	<__main__.Song object at 0x000001ED14CDF400>
+Wishbone Ash	Argus	1972	<__main__.Song object at 0x000001ED14CDF460>
+Wishbone Ash	Argus	1972	<__main__.Song object at 0x000001ED14CDF4C0>
+Wishbone Ash	Argus	1972	<__main__.Song object at 0x000001ED14CDF520>
+Wishbone Ash	Argus	1972	<__main__.Song object at 0x000001ED14CDF580>
+Wishbone Ash	Keeper Of The Light [Live In Chicago]	1992	<__main__.Song object at 0x000001ED14CDF640>
+Wishbone Ash	Keeper Of The Light [Live In Chicago]	1992	<__main__.Song object at 0x000001ED14CDF6A0>
+Wishbone Ash	Keeper Of The Light [Live In Chicago]	1992	<__main__.Song object at 0x000001ED14CDF700>
+Wishbone Ash	Keeper Of The Light [Live In Chicago]	1992	<__main__.Song object at 0x000001ED14CDF760>
+Wishbone Ash	Keeper Of The Light [Live In Chicago]	1992	<__main__.Song object at 0x000001ED14CDF7C0>
+Wishbone Ash	Keeper Of The Light [Live In Chicago]	1992	<__main__.Song object at 0x000001ED14CDF820>
+Wishbone Ash	Keeper Of The Light [Live In Chicago]	1992	<__main__.Song object at 0x000001ED14CDF880>
+Wishbone Ash	Keeper Of The Light [Live In Chicago]	1992	<__main__.Song object at 0x000001ED14CDF8E0>
+Wishbone Ash	Keeper Of The Light [Live In Chicago]	1992	<__main__.Song object at 0x000001ED14CDF940>
+Wishbone Ash	Keeper Of The Light [Live In Chicago]	1992	<__main__.Song object at 0x000001ED14CDF9A0>
+Wishbone Ash	Keeper Of The Light [Live In Chicago]	1992	<__main__.Song object at 0x000001ED14CDFA00>
+Wishbone Ash	Wishbone Four	1973	<__main__.Song object at 0x000001ED14CDFAC0>
+Wishbone Ash	Wishbone Four	1973	<__main__.Song object at 0x000001ED14CDFB20>
+Wishbone Ash	Wishbone Four	1973	<__main__.Song object at 0x000001ED14CDFB80>
+Wishbone Ash	Wishbone Four	1973	<__main__.Song object at 0x000001ED14CDFBE0>
+Wishbone Ash	Wishbone Four	1973	<__main__.Song object at 0x000001ED14CDFC40>
+Wishbone Ash	Wishbone Four	1973	<__main__.Song object at 0x000001ED14CDFCA0>
+Wishbone Ash	Wishbone Four	1973	<__main__.Song object at 0x000001ED14CDFD00>
+Wishbone Ash	Wishbone Four	1973	<__main__.Song object at 0x000001ED14CDFD60>
+Yardbirds	The Very Best of the Yardbirds	1991	<__main__.Song object at 0x000001ED14CDFE80>
+Yardbirds	The Very Best of the Yardbirds	1991	<__main__.Song object at 0x000001ED14CDFEE0>
+Yardbirds	The Very Best of the Yardbirds	1991	<__main__.Song object at 0x000001ED14CDFF40>
+Yardbirds	The Very Best of the Yardbirds	1991	<__main__.Song object at 0x000001ED14CDFFA0>
+Yardbirds	The Very Best of the Yardbirds	1991	<__main__.Song object at 0x000001ED14CE2040>
+Yardbirds	The Very Best of the Yardbirds	1991	<__main__.Song object at 0x000001ED14CE20A0>
+Yardbirds	The Very Best of the Yardbirds	1991	<__main__.Song object at 0x000001ED14CE2100>
+Yardbirds	The Very Best of the Yardbirds	1991	<__main__.Song object at 0x000001ED14CE2160>
+Yardbirds	The Very Best of the Yardbirds	1991	<__main__.Song object at 0x000001ED14CE21C0>
+Yardbirds	The Very Best of the Yardbirds	1991	<__main__.Song object at 0x000001ED14CE2220>
+Yardbirds	The Very Best of the Yardbirds	1991	<__main__.Song object at 0x000001ED14CE2280>
+Yardbirds	The Very Best of the Yardbirds	1991	<__main__.Song object at 0x000001ED14CE22E0>
+Yardbirds	The Very Best of the Yardbirds	1991	<__main__.Song object at 0x000001ED14CE2340>
+Yardbirds	The Very Best of the Yardbirds	1991	<__main__.Song object at 0x000001ED14CE23A0>
+Yardbirds	The Very Best of the Yardbirds	1991	<__main__.Song object at 0x000001ED14CE2400>
+Yardbirds	The Very Best of the Yardbirds	1991	<__main__.Song object at 0x000001ED14CE2460>
+Yardbirds	The Very Best of the Yardbirds	1991	<__main__.Song object at 0x000001ED14CE24C0>
+Yardbirds	The Very Best of the Yardbirds	1991	<__main__.Song object at 0x000001ED14CE2520>
+Yardbirds	The Very Best of the Yardbirds	1991	<__main__.Song object at 0x000001ED14CE2580>
+Yardbirds	The Very Best of the Yardbirds	1991	<__main__.Song object at 0x000001ED14CE25E0>
+Yardbirds	The Very Best of the Yardbirds	1991	<__main__.Song object at 0x000001ED14CE2640>
+Yardbirds	The Very Best of the Yardbirds	1991	<__main__.Song object at 0x000001ED14CE26A0>
+Yngwie Malmsteen	Rising Force	1984	<__main__.Song object at 0x000001ED14CE27C0>
+Yngwie Malmsteen	Rising Force	1984	<__main__.Song object at 0x000001ED14CE2820>
+Yngwie Malmsteen	Rising Force	1984	<__main__.Song object at 0x000001ED14CE2880>
+Yngwie Malmsteen	Rising Force	1984	<__main__.Song object at 0x000001ED14CE28E0>
+Yngwie Malmsteen	Rising Force	1984	<__main__.Song object at 0x000001ED14CE2940>
+Yngwie Malmsteen	Rising Force	1984	<__main__.Song object at 0x000001ED14CE29A0>
+Yngwie Malmsteen	Rising Force	1984	<__main__.Song object at 0x000001ED14CE2A00>
+Yngwie Malmsteen	Rising Force	1984	<__main__.Song object at 0x000001ED14CE2A60>
+ZZ Top	Rio Grande Mud	1972	<__main__.Song object at 0x000001ED14CE2B80>
+ZZ Top	Rio Grande Mud	1972	<__main__.Song object at 0x000001ED14CE2BE0>
+ZZ Top	Rio Grande Mud	1972	<__main__.Song object at 0x000001ED14CE2C40>
+ZZ Top	Rio Grande Mud	1972	<__main__.Song object at 0x000001ED14CE2CA0>
+ZZ Top	Rio Grande Mud	1972	<__main__.Song object at 0x000001ED14CE2D00>
+ZZ Top	Rio Grande Mud	1972	<__main__.Song object at 0x000001ED14CE2D60>
+ZZ Top	Rio Grande Mud	1972	<__main__.Song object at 0x000001ED14CE2DC0>
+ZZ Top	Rio Grande Mud	1972	<__main__.Song object at 0x000001ED14CE2E20>
+ZZ Top	Rio Grande Mud	1972	<__main__.Song object at 0x000001ED14CE2E80>
+ZZ Top	Rio Grande Mud	1972	<__main__.Song object at 0x000001ED14CE2EE0>
+ZZ Top	Tres Hombres	1973	<__main__.Song object at 0x000001ED14CE2FA0>
+ZZ Top	Tres Hombres	1973	<__main__.Song object at 0x000001ED14CE4040>
+ZZ Top	Tres Hombres	1973	<__main__.Song object at 0x000001ED14CE40A0>
+ZZ Top	Tres Hombres	1973	<__main__.Song object at 0x000001ED14CE4100>
+ZZ Top	Tres Hombres	1973	<__main__.Song object at 0x000001ED14CE4160>
+ZZ Top	Tres Hombres	1973	<__main__.Song object at 0x000001ED14CE41C0>
+ZZ Top	Tres Hombres	1973	<__main__.Song object at 0x000001ED14CE4220>
+ZZ Top	Tres Hombres	1973	<__main__.Song object at 0x000001ED14CE4280>
+ZZ Top	Tres Hombres	1973	<__main__.Song object at 0x000001ED14CE42E0>
+ZZ Top	Tres Hombres	1973	<__main__.Song object at 0x000001ED14CE4340>
+ZZ Top	Tres Hombres	1973	<__main__.Song object at 0x000001ED14CE43A0>
+ZZ Top	Tres Hombres	1973	<__main__.Song object at 0x000001ED14CE4400>
+ZZ Top	Tres Hombres	1973	<__main__.Song object at 0x000001ED14CE4460>
+ZZ Top	Degüello	1979	<__main__.Song object at 0x000001ED14CE4520>
+ZZ Top	Degüello	1979	<__main__.Song object at 0x000001ED14CE4580>
+ZZ Top	Degüello	1979	<__main__.Song object at 0x000001ED14CE45E0>
+ZZ Top	Degüello	1979	<__main__.Song object at 0x000001ED14CE4640>
+ZZ Top	Degüello	1979	<__main__.Song object at 0x000001ED14CE46A0>
+ZZ Top	Degüello	1979	<__main__.Song object at 0x000001ED14CE4700>
+ZZ Top	Degüello	1979	<__main__.Song object at 0x000001ED14CE4760>
+ZZ Top	Degüello	1979	<__main__.Song object at 0x000001ED14CE47C0>
+ZZ Top	Degüello	1979	<__main__.Song object at 0x000001ED14CE4820>
+ZZ Top	Degüello	1979	<__main__.Song object at 0x000001ED14CE4880>
+ZZ Top	Recycler	1990	<__main__.Song object at 0x000001ED14CE4940>
+ZZ Top	Recycler	1990	<__main__.Song object at 0x000001ED14CE49A0>
+ZZ Top	Recycler	1990	<__main__.Song object at 0x000001ED14CE4A00>
+ZZ Top	Recycler	1990	<__main__.Song object at 0x000001ED14CE4A60>
+ZZ Top	Recycler	1990	<__main__.Song object at 0x000001ED14CE4AC0>
+ZZ Top	Recycler	1990	<__main__.Song object at 0x000001ED14CE4B20>
+ZZ Top	Recycler	1990	<__main__.Song object at 0x000001ED14CE4B80>
+ZZ Top	Recycler	1990	<__main__.Song object at 0x000001ED14CE4BE0>
+ZZ Top	Recycler	1990	<__main__.Song object at 0x000001ED14CE4C40>
+ZZ Top	Recycler	1990	<__main__.Song object at 0x000001ED14CE4CA0>
+ZZ Top	Antenna	1994	<__main__.Song object at 0x000001ED14CE4D60>
+ZZ Top	Antenna	1994	<__main__.Song object at 0x000001ED14CE4DC0>
+ZZ Top	Antenna	1994	<__main__.Song object at 0x000001ED14CE4E20>
+ZZ Top	Antenna	1994	<__main__.Song object at 0x000001ED14CE4E80>
+ZZ Top	Antenna	1994	<__main__.Song object at 0x000001ED14CE4EE0>
+ZZ Top	Antenna	1994	<__main__.Song object at 0x000001ED14CE4F40>
+ZZ Top	Antenna	1994	<__main__.Song object at 0x000001ED14CE4FA0>
+ZZ Top	Antenna	1994	<__main__.Song object at 0x000001ED14CE6040>
+ZZ Top	Antenna	1994	<__main__.Song object at 0x000001ED14CE60A0>
+ZZ Top	Antenna	1994	<__main__.Song object at 0x000001ED14CE6100>
+ZZ Top	Antenna	1994	<__main__.Song object at 0x000001ED14CE6160>
+ZZ Top	Antenna	1994	<__main__.Song object at 0x000001ED14CE61C0>
+ZZ Top	Mescalero	2003	<__main__.Song object at 0x000001ED14CE6280>
+ZZ Top	Mescalero	2003	<__main__.Song object at 0x000001ED14CE62E0>
+ZZ Top	Mescalero	2003	<__main__.Song object at 0x000001ED14CE6340>
+ZZ Top	Mescalero	2003	<__main__.Song object at 0x000001ED14CE63A0>
+ZZ Top	Mescalero	2003	<__main__.Song object at 0x000001ED14CE6400>
+ZZ Top	Mescalero	2003	<__main__.Song object at 0x000001ED14CE6460>
+ZZ Top	Mescalero	2003	<__main__.Song object at 0x000001ED14CE64C0>
+ZZ Top	Mescalero	2003	<__main__.Song object at 0x000001ED14CE6520>
+ZZ Top	Mescalero	2003	<__main__.Song object at 0x000001ED14CE6580>
+ZZ Top	Mescalero	2003	<__main__.Song object at 0x000001ED14CE65E0>
+ZZ Top	Mescalero	2003	<__main__.Song object at 0x000001ED14CE6640>
+ZZ Top	Mescalero	2003	<__main__.Song object at 0x000001ED14CE66A0>
+ZZ Top	Mescalero	2003	<__main__.Song object at 0x000001ED14CE6700>
+ZZ Top	Mescalero	2003	<__main__.Song object at 0x000001ED14CE6760>
+ZZ Top	Mescalero	2003	<__main__.Song object at 0x000001ED14CE67C0>
+ZZ Top	Mescalero	2003	<__main__.Song object at 0x000001ED14CE6820>
